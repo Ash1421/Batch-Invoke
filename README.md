@@ -9,9 +9,8 @@
 
 ## 📊 Github Repository Information
 
-
-[![GitHub Issues](https://img.shields.io/github/issues/Ash1421/batch-invoke?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed/Ash1421/batch-invoke?style=for-the-badge&color=red)](https://github.com/Ash1421/batch-invoke/issues?q=is:closed)
+[![GitHub Issues](https://img.shields.io/github/issues/Ash1421/batch-invoke/open?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/Ash1421/batch-invoke/closed?style=for-the-badge&color=red)](https://github.com/Ash1421/batch-invoke/issues?q=is:closed)
 [![New Issue](https://img.shields.io/badge/Open%20A%20New%20Issue-yellow?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues/new)
 
 ## 💜 Made With Love Using
@@ -23,7 +22,7 @@
 
 ## 📜 Licensed Under
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-gold.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-gold.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
 
@@ -80,11 +79,13 @@ cd batch-invoke
 PowerShell may block script execution by default. You have two options:
 
 **Option A: Bypass for Single Execution (Recommended)**
+
 ```powershell
 powershell -ExecutionPolicy Bypass -File ".\batch-request-invoker.ps1"
 ```
 
 **Option B: Change Policy Permanently**
+
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
@@ -110,11 +111,13 @@ Ensure it's 5.1 or higher.
 3. Run the script:
 
 **Method 1: Bypass execution policy (no admin required)**
+
 ```powershell
 powershell -ExecutionPolicy Bypass -File ".\batch-request-invoker.ps1"
 ```
 
 **Method 2: Direct execution (if policy already set)**
+
 ```powershell
 .\batch-request-invoker.ps1
 ```
@@ -150,6 +153,7 @@ $DEFAULT_URL = "example.com"  # Default URL when none provided
 When `$ENABLE_URL_FILE = $true`, you can create a `urlfile.txt` in the same directory as the script:
 
 **urlfile.txt example:**
+
 ```
 https://api1.example.com/endpoint
 https://api2.example.com/endpoint
@@ -197,6 +201,7 @@ URL: https://your-api.com/health
 ### Progress Bar
 
 The script displays a real-time progress bar with:
+
 - **Visual Progress**: Gradient bar showing completion percentage
 - **Success Count**: Number of completed requests
 - **Active Jobs**: Current parallel requests in progress
@@ -215,6 +220,7 @@ The script displays a real-time progress bar with:
 ### Performance Metrics
 
 After completion, you'll see:
+
 - Total requests sent
 - Successful vs failed requests
 - Total execution time
@@ -229,11 +235,13 @@ After completion, you'll see:
 **Error**: "cannot be loaded because running scripts is disabled"
 
 **Solution A** (No admin required):
+
 ```powershell
 powershell -ExecutionPolicy Bypass -File ".\batch-request-invoker.ps1"
 ```
 
 **Solution B** (Permanent fix):
+
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```

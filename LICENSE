@@ -27,7 +27,7 @@ ADDITIONAL INFORMATION:
 
 Project: PowerShell Batch Request Invoker (batch-invoke)
 Author: @Ash1421
-Version: 2.2.6
+Version: 2.2.7
 Repository: https://github.com/Ash1421/batch-invoke
 
 This PowerShell script is designed for sending batch HTTP requests with
