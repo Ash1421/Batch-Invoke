@@ -5,11 +5,11 @@
 ## ✨ Socials & Stars
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xc4D33wBmA)
-[![GitHub Stars](https://img.shields.io/github/stars/Ash1421/batch-invoke?style=for-the-badge&color=gold)](https://github.com/Ash1421/batch-invoke)
+[![GitHub Stars](https://img.shields.io/github/stars/Ash1421/batch-invoke?style=for-the-badge&color=yellow)](https://github.com/Ash1421/batch-invoke/stargazers)
 
 ## 📊 Github Repository Information
 
-![Version](https://img.shields.io/github/v/release/Ash1421/batch-invoke?style=for-the-badge&label=Version&color=blue)
+
 [![GitHub Issues](https://img.shields.io/github/issues/Ash1421/batch-invoke?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/Ash1421/batch-invoke?style=for-the-badge&color=red)](https://github.com/Ash1421/batch-invoke/issues?q=is:closed)
 [![New Issue](https://img.shields.io/badge/Open%20A%20New%20Issue-yellow?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues/new)
@@ -23,22 +23,7 @@
 
 ## 📜 Licensed Under
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ██████╗  ██████╗ ██╗    ██╗███████╗██████╗ ███████╗██╗  ██╗███████╗██╗     ║
-║  ██╔══██╗██╔═══██╗██║    ██║██╔════╝██╔══██╗██╔════╝██║  ██║██╔════╝██║     ║
-║  ██████╔╝██║   ██║██║ █╗ ██║█████╗  ██████╔╝███████╗███████║█████╗  ██║     ║
-║  ██╔═══╝ ██║   ██║██║███╗██║██╔══╝  ██╔══██╗╚════██║██╔══██║██╔══╝  ██║     ║
-║  ██║     ╚██████╔╝╚███╔███╔╝███████╗██║  ██║███████║██║  ██║███████╗███████╗║
-║  ╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-**A powerful PowerShell script for sending batch HTTP requests with parallel processing**
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-gold.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
 
