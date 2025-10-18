@@ -314,7 +314,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 **@Ash1421**
 
 - GitHub: [@Ash1421](https://github.com/Ash1421)
-- Version: 2.2.6
+- Version: 2.2.7
 
 ---
 
