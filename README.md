@@ -5,7 +5,7 @@
 ## ✨ Socials & Stars
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xc4D33wBmA)
-[![GitHub Stars](https://img.shields.io/github/stars/Ash1421/batch-invoke?style=for-the-badge&color=yellow)](https://github.com/Ash1421/batch-invoke/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Ash1421/batch-invoke?style=for-the-badge&color=gold)](https://github.com/Ash1421/batch-invoke/stargazers)
 
 ## 📊 Github Repository Information
 
