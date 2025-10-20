@@ -9,6 +9,7 @@
 
 ## 📊 Github Repository Information
 
+[![Version](https://img.shields.io/badge/Version-V2.3.8-blue.svg?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/releases/tag/v2.3.8)
 [![GitHub Issues](https://img.shields.io/github/issues/Ash1421/batch-invoke/open?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/Ash1421/batch-invoke/closed?style=for-the-badge&color=red)](https://github.com/Ash1421/batch-invoke/issues?q=is:closed)
 [![New Issue](https://img.shields.io/badge/Open%20A%20New%20Issue-yellow?style=for-the-badge)](https://github.com/Ash1421/batch-invoke/issues/new)
@@ -314,7 +315,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 **@Ash1421**
 
 - GitHub: [@Ash1421](https://github.com/Ash1421)
-- Version: 2.2.7
+- Version: 2.3.8
 
 ---
 
